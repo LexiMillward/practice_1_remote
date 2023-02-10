@@ -1,6 +1,7 @@
 body 
     {
         background-color: antiquewhite;
+        margin: 20px;
     }
 h1 
     {
@@ -9,4 +10,10 @@ h1
 h2
     {
         color: indigo;
+    }
+p   
+    {
+        color: darkred;
+        background-color: bisque;
+        font-size: 1.2em;
     }
